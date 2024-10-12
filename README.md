@@ -1,18 +1,20 @@
 # Exploratory-Data-Analysis
 
 
-Project Lifecycle for Exploratory Data Analysis (EDA) of Airline Performance
+## Project Lifecycle for Exploratory Data Analysis (EDA) of Airline Performance
 
-Step 1: Problem Statement
+## Step 1: Problem Statement
 
 Understand the challenges faced by airlines in enhancing performance and improving customer satisfaction.
 Identify key metrics and factors that contribute to airline performance, such as on-time performance, flight cancellations, customer satisfaction, and revenue.
-Step 2: Data Collection and Preparation
+
+## Step 2: Data Collection and Preparation
 
 Gather data from various sources, such as the Bureau of Transportation Statistics (BTS), the International Air Transport Association (IATA), and airline company websites.
 Clean, preprocess, and harmonize the data to ensure consistency and reliability.
 Identify and handle missing values, outliers, and potential biases.
-Step 3: Exploratory Data Analysis
+
+## Step 3: Exploratory Data Analysis
 
 Univariate Analysis:
 
@@ -32,12 +34,14 @@ Visualization and Storytelling:
 
 Create interactive data visualizations using libraries like Seaborn, Plotly, and Tableau.
 Present the findings in a clear and compelling manner, highlighting insights and potential areas for improvement.
-Step 4: Interpretation and Insights
+
+##Step 4: Interpretation and Insights
 
 Draw actionable conclusions from the EDA.
 Identify factors that contribute to airline performance and areas for improvement.
 Propose data-driven recommendations to enhance on-time performance, reduce cancellations, and improve customer satisfaction.
-Step 5: Reporting and Communication
+
+##Step 5: Reporting and Communication
 
 Prepare comprehensive reports and presentations to communicate the findings to stakeholders.
 Host meetings or webinars to discuss insights and implications for airline strategy and operations.
